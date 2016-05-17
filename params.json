@@ -1,6 +1,6 @@
 {
-  "name": "Open Micro-DataSet Platform(开源微数据平台)",
-  "tagline": "",
+  "name": "Open Micro-DataSet Platform",
+  "tagline": "开源微数据平台",
   "body": "### 平台优势\r\n* 免费：所有数据均可免费获取\r\n* 开源：提交完整的数据采集、处理、存储及查询实现\r\n* 友好：各类数据源使用json格式向外提供数据\r\n* 即时：提供websocket实现，实时推送数据\r\n\r\n### 架构设计\r\n* 可扩展：数据处理、存储及查询基于主流大数据技术，可方便地实现扩展及伸缩\r\n* 简单：框架实现了各类复杂处理，让数据开发更聚焦业务实现\r\n* 稳定：每个数据源均为独立组件，互不干扰，某个组件crash并不影响整体运行\r\n\r\n***\r\n\r\n### 现有数据源\r\n\r\n数据源| 说明| 文档\r\n----|----------------|---------\r\n车型数据 | 汽车之家车型库数据整理  | foo\r\n\r\n***\r\n\r\n### Authors and Contributors\r\n* gudaoxuri(i@sunisle.org)\r\n\r\n####  License\r\nUnder version 2.0 of the http://www.apache.org/licenses/LICENSE-2.0[Apache License].\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
